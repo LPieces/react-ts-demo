@@ -8,6 +8,8 @@
       - Item
 
 ## 基本的TS组件写法格式
+```
+
 import React form 'react'
 
 interface IProps {
@@ -25,3 +27,5 @@ const Index: React.FC<IProps> = ({
 }
 
 exprot default Index
+
+```
